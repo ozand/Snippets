@@ -1,0 +1,1 @@
+Analyze your findings and create a detailed task plan. Prepare a numbered list of tasks that are small yet sufficient to develop one function or incremental feature. Ensure to update the project documentation accordingly.
