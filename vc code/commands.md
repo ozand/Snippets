@@ -5,6 +5,6 @@
 2. Продолжи разработку в соответсвие с планом (не задавай вопросы, сразу приступай)
 
 
-
+---
 use mcp Sequential Thinking for "Try breaking down the task into smaller steps"
 
