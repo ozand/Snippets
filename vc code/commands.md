@@ -15,3 +15,4 @@ orchestrate subtasks in the appropriate modes sequentially
 
 uv run ruff check . --fix && uv run ruff format . && uv run mypy && uv run pytest ; "(Roo/PS Workaround: 1)" > $null;
 
+uv sync && uv run python -m logsec_kg; 
