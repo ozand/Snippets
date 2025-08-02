@@ -9,5 +9,5 @@
 use mcp Sequential Thinking for "Try breaking down the task into smaller steps"
 
 
-orchestrate subtasks in the appropriate modes sequentially.
+orchestrate subtasks in the appropriate modes sequentially
 
