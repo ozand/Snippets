@@ -9,3 +9,4 @@ Shell powershell -Command "Start-Process -FilePath 'start_app.bat' -RedirectStan
 ✦ Скрипт был запущен, и вывод перенаправлен в файлы output.log и error.log. Теперь я могу прочитать эти файлы, чтобы проанализировать вывод.
 
 
+прок
