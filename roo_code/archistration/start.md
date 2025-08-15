@@ -9,5 +9,3 @@ Shell powershell -Command "Start-Process -FilePath 'start_app.bat' -RedirectStan
 ✦ Скрипт был запущен, и вывод перенаправлен в файлы output.log и error.log. Теперь я могу прочитать эти файлы, чтобы проанализировать вывод.
 
 
-socks5://5.101.5.161:31570
-152.53.168.53:14994
