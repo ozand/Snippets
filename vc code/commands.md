@@ -25,4 +25,4 @@ uv sync && uv run python -m logsec_kg;
 - подробно опиши "user story" (одна доработка одна user story) и сохрани в @/docs/memory-bank/user_stor по каждую задачам разработки следующей фазы @/docs/memory-bank 
 - каждую созданную user story доработкок в @/docs/memory-bank/user_story свяжи c файлами @/docs/memory-bank 
 - после актуализации всей документации по проекту, последовательно шаг за шагом приступи к разработке по каждой user_story и плану следующей файзы разработки 
-- - после завершения каждой файзы, актуализируй докумнетацию в @/docs/memory-bank/user_story  и @/docs/memory-bank
+- после завершения каждой файзы, актуализируй докумнетацию в @/docs/memory-bank/user_story  и @/docs/memory-bank
